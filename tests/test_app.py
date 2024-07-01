@@ -1,4 +1,4 @@
-"""Testing app"""
+"""Testing App"""
 import os
 from unittest import mock
 from app import App
