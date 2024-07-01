@@ -1,4 +1,4 @@
-"""Testing command processor"""
+"""Testing Command Processor"""
 from unittest import mock
 import pytest
 from app.command_processor import CommandProcessor
