@@ -1,4 +1,4 @@
-'''Test all commands'''
+'''Test All Commands'''
 import pytest
 from app.command_processor import CommandProcessor
 
