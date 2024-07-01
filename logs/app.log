@@ -3495,3 +3495,211 @@
 2024-07-01 12:48:07,264 - app - INFO - Running in development environment
 2024-07-01 12:48:07,272 - root - INFO - Addition
 2024-07-01 12:48:07,284 - root - INFO - Addition
+2024-07-01 13:52:47,016 - root - INFO - Logging configured.
+2024-07-01 13:52:47,017 - root - INFO - Environment variables loaded.
+2024-07-01 13:52:47,020 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:52:47,020 - app - INFO - Running in development environment
+2024-07-01 13:54:18,753 - root - INFO - Logging configured.
+2024-07-01 13:54:18,754 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,772 - root - INFO - Logging configured.
+2024-07-01 13:54:18,772 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,772 - root - INFO - Logging configured.
+2024-07-01 13:54:18,773 - root - INFO - Logging configured.
+2024-07-01 13:54:18,774 - root - INFO - Logging configured.
+2024-07-01 13:54:18,774 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,774 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,775 - root - INFO - Logging configured.
+2024-07-01 13:54:18,775 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,775 - root - INFO - Logging configured.
+2024-07-01 13:54:18,775 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,776 - root - INFO - Logging configured.
+2024-07-01 13:54:18,776 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,776 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 13:54:18,777 - root - INFO - Logging configured.
+2024-07-01 13:54:18,777 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,779 - root - INFO - Logging configured.
+2024-07-01 13:54:18,779 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,781 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:18,781 - app - INFO - Running in development environment
+2024-07-01 13:54:18,782 - root - INFO - Logging configured.
+2024-07-01 13:54:18,782 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,783 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:18,783 - app - INFO - Running in development environment
+2024-07-01 13:54:18,783 - app - ERROR - ValueError: Error
+2024-07-01 13:54:18,783 - root - INFO - Application shutdown.
+2024-07-01 13:54:18,784 - root - INFO - Logging configured.
+2024-07-01 13:54:18,785 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:18,785 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:18,785 - app - INFO - Running in development environment
+2024-07-01 13:54:18,786 - root - INFO - Addition
+2024-07-01 13:54:18,794 - root - INFO - Addition
+2024-07-01 13:54:51,574 - root - INFO - Logging configured.
+2024-07-01 13:54:51,574 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,576 - root - INFO - Logging configured.
+2024-07-01 13:54:51,576 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,577 - root - INFO - Logging configured.
+2024-07-01 13:54:51,577 - root - INFO - Logging configured.
+2024-07-01 13:54:51,579 - root - INFO - Logging configured.
+2024-07-01 13:54:51,579 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,579 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,580 - root - INFO - Logging configured.
+2024-07-01 13:54:51,580 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,581 - root - INFO - Logging configured.
+2024-07-01 13:54:51,581 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,582 - root - INFO - Logging configured.
+2024-07-01 13:54:51,583 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,583 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 13:54:51,585 - root - INFO - Logging configured.
+2024-07-01 13:54:51,585 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,587 - root - INFO - Logging configured.
+2024-07-01 13:54:51,588 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,592 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:51,592 - app - INFO - Running in development environment
+2024-07-01 13:54:51,593 - root - INFO - Logging configured.
+2024-07-01 13:54:51,593 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,594 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:51,594 - app - INFO - Running in development environment
+2024-07-01 13:54:51,594 - app - ERROR - ValueError: Error
+2024-07-01 13:54:51,594 - root - INFO - Application shutdown.
+2024-07-01 13:54:51,596 - root - INFO - Logging configured.
+2024-07-01 13:54:51,596 - root - INFO - Environment variables loaded.
+2024-07-01 13:54:51,596 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 13:54:51,596 - app - INFO - Running in development environment
+2024-07-01 13:54:51,599 - root - INFO - Addition
+2024-07-01 13:54:51,612 - root - INFO - Addition
+2024-07-01 16:33:16,040 - root - INFO - Logging configured.
+2024-07-01 16:33:16,041 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,043 - root - INFO - Logging configured.
+2024-07-01 16:33:16,043 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,043 - root - INFO - Logging configured.
+2024-07-01 16:33:16,044 - root - INFO - Logging configured.
+2024-07-01 16:33:16,045 - root - INFO - Logging configured.
+2024-07-01 16:33:16,045 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,045 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,047 - root - INFO - Logging configured.
+2024-07-01 16:33:16,047 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,047 - root - INFO - Logging configured.
+2024-07-01 16:33:16,048 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,049 - root - INFO - Logging configured.
+2024-07-01 16:33:16,049 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,049 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 16:33:16,050 - root - INFO - Logging configured.
+2024-07-01 16:33:16,051 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,053 - root - INFO - Logging configured.
+2024-07-01 16:33:16,053 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,058 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:33:16,058 - app - INFO - Running in development environment
+2024-07-01 16:33:16,060 - root - INFO - Logging configured.
+2024-07-01 16:33:16,060 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,061 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:33:16,061 - app - INFO - Running in development environment
+2024-07-01 16:33:16,061 - app - ERROR - ValueError: Error
+2024-07-01 16:33:16,061 - root - INFO - Application shutdown.
+2024-07-01 16:33:16,062 - root - INFO - Logging configured.
+2024-07-01 16:33:16,062 - root - INFO - Environment variables loaded.
+2024-07-01 16:33:16,063 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:33:16,063 - app - INFO - Running in development environment
+2024-07-01 16:33:16,065 - root - INFO - Addition
+2024-07-01 16:33:16,080 - root - INFO - Addition
+2024-07-01 16:34:18,799 - root - INFO - Logging configured.
+2024-07-01 16:34:18,799 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,800 - root - INFO - Logging configured.
+2024-07-01 16:34:18,801 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,801 - root - INFO - Logging configured.
+2024-07-01 16:34:18,802 - root - INFO - Logging configured.
+2024-07-01 16:34:18,803 - root - INFO - Logging configured.
+2024-07-01 16:34:18,804 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,804 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,806 - root - INFO - Logging configured.
+2024-07-01 16:34:18,806 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,806 - root - INFO - Logging configured.
+2024-07-01 16:34:18,807 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,808 - root - INFO - Logging configured.
+2024-07-01 16:34:18,808 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,808 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 16:34:18,810 - root - INFO - Logging configured.
+2024-07-01 16:34:18,810 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,812 - root - INFO - Logging configured.
+2024-07-01 16:34:18,812 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,816 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:18,816 - app - INFO - Running in development environment
+2024-07-01 16:34:18,817 - root - INFO - Logging configured.
+2024-07-01 16:34:18,818 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,818 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:18,818 - app - INFO - Running in development environment
+2024-07-01 16:34:18,818 - app - ERROR - ValueError: Error
+2024-07-01 16:34:18,818 - root - INFO - Application shutdown.
+2024-07-01 16:34:18,820 - root - INFO - Logging configured.
+2024-07-01 16:34:18,820 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:18,821 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:18,821 - app - INFO - Running in development environment
+2024-07-01 16:34:18,824 - root - INFO - Addition
+2024-07-01 16:34:18,837 - root - INFO - Addition
+2024-07-01 16:34:43,311 - root - INFO - Logging configured.
+2024-07-01 16:34:43,311 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,312 - root - INFO - Logging configured.
+2024-07-01 16:34:43,312 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,312 - root - INFO - Logging configured.
+2024-07-01 16:34:43,313 - root - INFO - Logging configured.
+2024-07-01 16:34:43,313 - root - INFO - Logging configured.
+2024-07-01 16:34:43,314 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,314 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,314 - root - INFO - Logging configured.
+2024-07-01 16:34:43,315 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,315 - root - INFO - Logging configured.
+2024-07-01 16:34:43,315 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,316 - root - INFO - Logging configured.
+2024-07-01 16:34:43,316 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,316 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 16:34:43,317 - root - INFO - Logging configured.
+2024-07-01 16:34:43,317 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,318 - root - INFO - Logging configured.
+2024-07-01 16:34:43,318 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,322 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:43,322 - app - INFO - Running in development environment
+2024-07-01 16:34:43,323 - root - INFO - Logging configured.
+2024-07-01 16:34:43,323 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,324 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:43,324 - app - INFO - Running in development environment
+2024-07-01 16:34:43,324 - app - ERROR - ValueError: Error
+2024-07-01 16:34:43,324 - root - INFO - Application shutdown.
+2024-07-01 16:34:43,325 - root - INFO - Logging configured.
+2024-07-01 16:34:43,325 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:43,325 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:43,325 - app - INFO - Running in development environment
+2024-07-01 16:34:43,327 - root - INFO - Addition
+2024-07-01 16:34:43,334 - root - INFO - Addition
+2024-07-01 16:34:51,695 - root - INFO - Logging configured.
+2024-07-01 16:34:51,695 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,696 - root - INFO - Logging configured.
+2024-07-01 16:34:51,697 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,697 - root - INFO - Logging configured.
+2024-07-01 16:34:51,697 - root - INFO - Logging configured.
+2024-07-01 16:34:51,698 - root - INFO - Logging configured.
+2024-07-01 16:34:51,698 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,698 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,699 - root - INFO - Logging configured.
+2024-07-01 16:34:51,699 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,700 - root - INFO - Logging configured.
+2024-07-01 16:34:51,700 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,701 - root - INFO - Logging configured.
+2024-07-01 16:34:51,701 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,701 - root - WARNING - Plugins directory 'app/plugins' not found.
+2024-07-01 16:34:51,702 - root - INFO - Logging configured.
+2024-07-01 16:34:51,702 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,703 - root - INFO - Logging configured.
+2024-07-01 16:34:51,703 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,705 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:51,705 - app - INFO - Running in development environment
+2024-07-01 16:34:51,706 - root - INFO - Logging configured.
+2024-07-01 16:34:51,706 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,707 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:51,707 - app - INFO - Running in development environment
+2024-07-01 16:34:51,707 - app - ERROR - ValueError: Error
+2024-07-01 16:34:51,707 - root - INFO - Application shutdown.
+2024-07-01 16:34:51,708 - root - INFO - Logging configured.
+2024-07-01 16:34:51,708 - root - INFO - Environment variables loaded.
+2024-07-01 16:34:51,708 - root - INFO - Application started. Type 'exit' to exit.
+2024-07-01 16:34:51,708 - app - INFO - Running in development environment
+2024-07-01 16:34:51,710 - root - INFO - Addition
+2024-07-01 16:34:51,716 - root - INFO - Addition
