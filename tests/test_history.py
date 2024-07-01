@@ -1,4 +1,4 @@
-"""Test history"""
+"""Test History"""
 import os
 from app.plugins.history_manager import HistoryManager
 
