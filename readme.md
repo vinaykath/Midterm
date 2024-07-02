@@ -4,13 +4,13 @@
 This Python Calculator App is a simple command-line tool that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, it keeps a history of all calculations which can be displayed or cleared as needed.
 
 ### Demonstration video link: 
-[![Watch the video]](https://youtu.be/_U9EveKmf9c)
+[[Demonstration Video]](https://youtu.be/_U9EveKmf9c)
 
 ### Code/ File Explanation
 
 #### Table of Content with Documentation
 1) [main.py](./mainpy_readme.md)
-2) [app/__init__.py](./app/README.md)
+2) [app/__init__.py](./app/README.MD)
 3) [app/command_processor.py](./app/commandprocess_readme.md)
 4) [app/base_command/__init__.py](./app/base_command/Readme.md)
 5) [app/plugins/history_manager.py](./app/plugins/readme.md)
@@ -21,7 +21,7 @@ This Python Calculator App is a simple command-line tool that performs basic ari
 10) [tests/test_history.py](./tests/testhistory_readme.md)
 11) [tests/test_plugin.py](./tests/testplugin_readme.md)
 
-[![Watch the video](https://img.youtube.com/vi/_U9EveKmf9c/maxresdefault.jpg)](https://youtu.be/_U9EveKmf9c?si=PbbJ3YCjl65z6UGy)
+[![Demonstration Video](https://img.youtube.com/vi/_U9EveKmf9c/maxresdefault.jpg)](https://youtu.be/_U9EveKmf9c?si=PbbJ3YCjl65z6UGy)
 
 ## Features
 - **Addition**: Add two numbers.
