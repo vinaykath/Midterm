@@ -8,21 +8,15 @@ This Python Calculator App is a simple command-line tool that performs basic ari
 
 ### Code/ File Explanation
 
-#### Table of Content/ Documentation
+#### Table of Content with Documentation
 1) [main.py](./readme1.md)
-1) [app/__init__.py documentation](./app/README.md)
-2) 
+2) [app/__init__.py](./app/README.md)
+3) [app/command_processor.py](./app/commandpreadme.md)
+4) [app/base_command/__init__.py](./app/base_command/Readme.md)
+5) [app/plugins/history_manager.py](./app/plugins/readme.md)
+
 
 [![Watch the video](https://img.youtube.com/vi/_U9EveKmf9c/maxresdefault.jpg)](https://youtu.be/_U9EveKmf9c?si=PbbJ3YCjl65z6UGy)
-
-
-
- **1. main.py**
-
-
-**2. app/__init__.py**
-
-
 
 ## Features
 - **Addition**: Add two numbers.
